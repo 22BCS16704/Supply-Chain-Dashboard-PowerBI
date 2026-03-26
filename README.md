@@ -1,27 +1,31 @@
-# Supply-Chain-Dashboard-PowerBI
-📌 Project Overview
-This project presents an interactive Power BI dashboard designed to analyze supply chain and logistics performance through dynamic visualizations and insights.
+# 📊 Supply Chain & Logistics Dashboard (Power BI)
 
-🛠 Tech Stack
-Power BI
-DAX
-Data Visualization
+🚀 An interactive Power BI dashboard designed to analyze and visualize supply chain performance.
 
-🔁 Dashboard Features
+## 🔍 Key Insights
+
+🔹 Supplier Performance Analysis
+🔹 Inventory Management
+🔹 Shipment Tracking & Delay Analysis
+🔹 Customer & Revenue Insights
+
+## 🛠 Tools Used
+
+✔ Power BI
+✔ DAX
+✔ Data Visualization
+
+## 🎯 Objective
+
+To provide actionable insights for better decision-making in supply chain operations.
+
+## 📸 Dashboard Features
+
 Analyze supplier performance
 Track inventory levels and stock trends
 Monitor shipment delays and delivery status
 Visualize customer and revenue insights
 
-📊 Key Highlights
-Interactive multi-page dashboard
-Clean and modern UI design
-Dynamic filtering and navigation
-Business-focused insights
+✨ Built with passion for data analytics
+👩‍💻 By Prachi
 
-📂 Repository Contents
-.pbix file – Power BI dashboard file
-screenshots/ – Dashboard preview images
-
-👩‍💻 Author
-Prachi Garg
