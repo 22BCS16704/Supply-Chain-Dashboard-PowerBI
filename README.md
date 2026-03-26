@@ -23,6 +23,38 @@
 To provide actionable insights for better decision-making in supply chain operations.
 
 
+🚀 An interactive Power BI dashboard designed to analyze and visualize supply chain performance.
+
+---
+
+## 📸 Dashboard Preview
+
+### 🏠 Home
+
+![Home](Dashboard Screenshots/Home.png)
+
+### 📊 Overview
+
+![Overview](Dashboard Screenshots/Overview.png)
+
+### 🏭 Supplier
+
+![Supplier](Dashboard Screenshots/Supplier.png)
+
+### 📦 Inventory
+
+![Inventory](Dashboard Screenshots/Inventory.png)
+
+### 🚚 Shipment
+
+![Shipment](Dashboard Screenshots/Shipment.png)
+
+### 👥 Customer
+
+![Customer](Dashboard Screenshots/Customer.png)
+
+
+
 ## 📸 Dashboard Features
 
 * ✔ Analyze supplier performance
